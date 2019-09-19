@@ -1,3 +1,2 @@
 test
-<<<<<<< HEAD
 master and dev
